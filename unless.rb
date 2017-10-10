@@ -9,3 +9,4 @@ end
 # Conditional statement with 'unless' can also be written inline
 puts "Not freaky" unless Date.today.friday?
 puts "Not freaky" unless Date.today.friday?
+puts "Not freaky" unless Date.today.friday?
