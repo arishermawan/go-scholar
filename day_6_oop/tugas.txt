@@ -1,0 +1,24 @@
+buat sebuah kelas nama point
+2 attribut 
+x lokasi koordinat
+y
+
+buat beberapa method
+
+quadran - retrun di kuadran mana point itu berada
+
+overide / redifine - method print --> format "(x,y)"
+
+buat move left, right, up, down
+menerima 1 parameter 
+
+buaatlah sebuah kelas namanya LINE
+punya 2 atribut
+
+start--class point
+end -- clast point
+
+method 
+1. length
+2. gradient
+3 move up left right down
